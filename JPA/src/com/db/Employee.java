@@ -16,7 +16,7 @@ public class Employee implements Serializable {
 	private String firstName;
 	
 	public Employee(){
-		//require by JPA
+		//require by JPA.
 	}
 	
 	public Employee(String firstName){
