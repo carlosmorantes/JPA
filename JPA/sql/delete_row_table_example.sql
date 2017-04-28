@@ -1,0 +1,1 @@
+delete from "APP"."TABLE_EXAMPLE" where "ID"='1';

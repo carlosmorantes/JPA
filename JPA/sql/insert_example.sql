@@ -1,0 +1,1 @@
+insert into "APP"."TABLE_EXAMPLE" ("ID", "NAME", "LOCATION", "CAPACITY") values('1', 'mipredio', 'misala', 34);
