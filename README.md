@@ -1,5 +1,5 @@
 # JPA
-Save entity into DB using Derby
+Save entity into DB using Derby. Example using Java SE (there is no container that manages the DB connection)
 - Two packages. One has the entity(employee) class and the other creates a new employee.
 - You have to load the eclipselink jars (in this case, there are others like hibernate...).
 - The example uses derby. It is important to build the jars (derby-client.jar and so on).
